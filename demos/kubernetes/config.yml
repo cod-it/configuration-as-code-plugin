@@ -23,7 +23,7 @@ data:
                     args: ""
     unclassified:
       location:
-        url: http://jenkins/
+        url: https://jenkins.test.devvio.com/
     jobs:
       - script: >
         pipelineJob('configuration-as-code') {
